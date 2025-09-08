@@ -9,11 +9,10 @@ Features:
 5. Responsive Frontend – Clean and accessible UI with HTML & CSS.
 
 System Architecture:
-Workflow-
-  1.Student submits complaint via web form.
-  2. Flask backend validates and stores data.
-  3. System provides acknowledgment.
-  4. Administrator reviews complaints in the admin panel.
+1.Student submits complaint via web form.
+2. Flask backend validates and stores data.
+3. System provides acknowledgment.
+4. Administrator reviews complaints in the admin panel.
 
 Tech Stack:
 1. Frontend: HTML, CSS
